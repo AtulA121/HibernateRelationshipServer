@@ -10,5 +10,7 @@
 	Done : 
 	<p>I did a changes on remote repositiry...</p>
 	<p>I also did a changes on local repository...</p>
+	<p>Okk i done with remote repository</p>
+	
 </body>
 </html>
