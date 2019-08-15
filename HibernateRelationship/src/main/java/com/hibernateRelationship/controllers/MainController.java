@@ -9,6 +9,7 @@ public class MainController {
 	public String index()
 	{
 		System.out.println("/ request...");
+		System.out.println("updated from remote repository...");
 		return "index.jsp";
 	}
 }
